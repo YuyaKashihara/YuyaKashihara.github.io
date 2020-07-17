@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on kame blog</title>
+        <link>https://YuyaKashihara.github.io/posts/</link>
+        <description>Recent content in Posts on kame blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Sat, 18 Jul 2020 02:01:54 +0900</lastBuildDate>
+        <atom:link href="https://YuyaKashihara.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>初投稿です</title>
+            <link>https://YuyaKashihara.github.io/posts/first/</link>
+            <pubDate>Sat, 18 Jul 2020 02:01:54 +0900</pubDate>
+            
+            <guid>https://YuyaKashihara.github.io/posts/first/</guid>
+            <description>よろしくお願いします。</description>
+            <content type="html"><![CDATA[<p>よろしくお願いします。</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
